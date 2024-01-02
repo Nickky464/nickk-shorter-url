@@ -4,7 +4,6 @@ var URL
 const queryString = window.location.search;
 const URLParams = new URLSearchParams(queryString);
 const short = URLParams.get("short");
-// console.log(short);
 if (short == 'cmucamtprogram') {
   URL = "https://course.mytcas.com/programs/10040121220401E"
 } else if (short == 'cmucamtcuri') {
@@ -42,4 +41,3 @@ function ChangeButton() {
   };
 }
 ChangeButton();
-console.log(ChangeButton);
