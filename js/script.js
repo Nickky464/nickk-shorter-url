@@ -17,7 +17,7 @@ if (short == 'cmucamtprogram') {
 
 // Timer
 function Timer() {
-  var second = 5;
+  var second = 3;
   var timePassed = 0;
   x = setInterval(() => {
     let times = second - (timePassed += 1);
