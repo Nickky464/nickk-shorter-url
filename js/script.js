@@ -1,5 +1,5 @@
 // Variable
-var URL
+var URL;
 // parameter get
 const queryString = window.location.search;
 const URLParams = new URLSearchParams(queryString);
