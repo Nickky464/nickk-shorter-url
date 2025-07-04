@@ -10,7 +10,7 @@ if (short == 'cmucamtprogram') {
   URL = "https://cmu.ac.th/th/Faculty/course_detail/98bbdc11-3843-4aba-89be-cb76e8a6d6b0"
 } else if (short == "cmuhistory") {
   URL = "https://cmu.ac.th/th/cmu/history"
-} else if (short == "pfs1video"{
+} else if (short == "pfs1video") {
   URL = "https://youtu.be/Z1cKBB07d78"
 } else {
   URL = "none"
